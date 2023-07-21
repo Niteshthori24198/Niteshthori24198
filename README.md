@@ -1,4 +1,5 @@
-
+# 💫 About Me:
+Hi 👋 I'm Nitesh Kumar<br><br>I am a skilled Full Stack Web Developer proficient in the MERN stack, and my primary focus lies in writing clean, elegant, and efficient code.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nitesh-kumar-119819253/) 
